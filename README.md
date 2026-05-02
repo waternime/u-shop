@@ -7,26 +7,50 @@
 
 ## Preview
 
-![Gambar 1](https://github.com/user-attachments/assets/b7ce058e-f913-484f-a9f9-7b5b5d0d0c55)
-<p align="center">Menu Dashboard Light Mode</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b7ce058e-f913-484f-a9f9-7b5b5d0d0c55" alt="Gambar 1" />
+  <br>
+  Menu Dashboard Light Mode
+</p>
 
-![Gambar 2](https://github.com/user-attachments/assets/b0738a95-389b-4498-9277-850a9009f135)
-<p align="center">Menu Dashboard Dark Mode</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0738a95-389b-4498-9277-850a9009f135" alt="Gambar 2" />
+  <br>
+  Menu Dashboard Dark Mode
+</p>
 
-![Gambar 3](https://github.com/user-attachments/assets/27b0a34f-6bae-4234-ad46-b9662a8fe28f)
-<p align="center">Menu Search</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/27b0a34f-6bae-4234-ad46-b9662a8fe28f" alt="Gambar 3" />
+  <br>
+  Menu Search
+</p>
 
-![Gambar 4](https://github.com/user-attachments/assets/bb4e5e0c-b03e-41da-af9d-2f4cab4408c7)
-<p align="center">Menu Simpan Favorit</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb4e5e0c-b03e-41da-af9d-2f4cab4408c7" alt="Gambar 4" />
+  <br>
+  Menu Simpan Favorit
+</p>
 
-![Gambar 5](https://github.com/user-attachments/assets/3fd385dd-bdb0-4831-9322-83f2243dd227)
-<p align="center">Menu Keranjang</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3fd385dd-bdb0-4831-9322-83f2243dd227" alt="Gambar 5" />
+  <br>
+  Menu Keranjang
+</p>
 
-![Gambar 6](https://github.com/user-attachments/assets/ba6e044e-40b3-461c-bb7e-0f47d051557c)
-<p align="center">Menu History</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba6e044e-40b3-461c-bb7e-0f47d051557c" alt="Gambar 6" />
+  <br>
+  Menu History
+</p>
 
-![Gambar 7](https://github.com/user-attachments/assets/6ed7596a-450e-4b87-8b12-5583a0677bd4)
-<p align="center">Menu Detail Histoy</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ed7596a-450e-4b87-8b12-5583a0677bd4" alt="Gambar 7" />
+  <br>
+  Menu Detail History
+</p>
 
-![Gambar 8](https://github.com/user-attachments/assets/e90d0490-92e3-4e0f-9c5e-3ecbf9c6bc06)
-<p align="center">Menu Profile</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e90d0490-92e3-4e0f-9c5e-3ecbf9c6bc06" alt="Gambar 8" />
+  <br>
+  Menu Profile
+</p>
